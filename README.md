@@ -3,3 +3,22 @@ An audio translator is a tool or system that converts spoken language from one l
 
 ![image](https://github.com/Kaushal03/Audio-Translator/assets/67416597/7f4b724e-378d-40b2-b33e-6ad625a1ffcc)
 
+### Requirements
+<ol>
+<li><b>OpenCV:</b> Install using the following command:</li>
+<pre><code>pip install googletrans</code></pre>
+
+<li><b>NumPy:</b> Install using the following command:</li>
+<pre><code>pip install SpeechRecognition</code></pre>
+
+<li><b>Pyttsx3:</b> Install using the following command:</li>
+<pre><code>pip install gTTS</code></pre>
+
+<li><b>Pyttsx3:</b> Install using the following command:</li>
+<pre><code>pip install playsound</code></pre>
+</ol>
+
+<p>Make sure to install these dependencies before running the project.</p>
+
+
+
